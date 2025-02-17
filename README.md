@@ -1,5 +1,5 @@
 - 👋 Hi, I’m André
-- 👀 I’m interested in: See profile picture and make your own conclusions
+- 👀 I’m interested in: Come to your own conclusions
 - 🌱 I’m currently learning: Programming
 - 💞️ I’m looking to collaborate on: Undecided
 - 📫 How to reach me: This is very difficult

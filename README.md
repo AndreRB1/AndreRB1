@@ -1,8 +1,8 @@
 - 👋 Hi, I’m André
 - 👀 I’m interested in: Come to your own conclusions
 - 🌱 I’m currently learning: Programming
-- 💞️ I’m looking to collaborate on: I prefer solitude
-- 📫 How to reach me: Hardly possible
+- 💞️ I’m looking to collaborate on: I prefer to work alone
+- 📫 How to reach me: Difficult
 - ⚡ Fun fact: I'm using GitHub
 
 <!---

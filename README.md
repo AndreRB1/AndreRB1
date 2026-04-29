@@ -1,7 +1,7 @@
 - 👋 Hi, I’m André
-- 👀 I’m interested in: Come to your own conclusions
+- 👀 I’m interested in: You tell me
 - 🌱 I’m currently learning: Programming
-- 💞️ I’m looking to collaborate on: I prefer to work alone
+- 💞️ I’m looking to collaborate on: Nothing, I prefer to work alone
 - 📫 How to reach me: Difficult
 - ⚡ Fun fact: I'm using GitHub
 
